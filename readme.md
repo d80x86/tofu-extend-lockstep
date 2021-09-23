@@ -17,7 +17,7 @@ deps = {
   -- 其它配置 ...
   --
 
-  'd80x86/tofu-extend.lockstep',
+  'd80x86/tofu-extend-lockstep',
 }
 
 ```
